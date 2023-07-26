@@ -44,3 +44,4 @@ dotnet run --environment Development
 ```
 https://localhost:<port>/swagger/index.html
 ```
+It is highly recommended to use Google Chrome
